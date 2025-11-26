@@ -39,7 +39,7 @@ header {
 }
 
 #navWrapper {
-    background-color: $secondaryColor;
+    background-color: teal;
     padding: .5rem;
 }
 
@@ -55,7 +55,7 @@ nav {
     li.active {background-color: $primaryColor;}
     a {
         display: block;
-        padding: 0.75 rem;
+        padding: 0.75rem;
         color: white;
         text-align: center;
         text-decoration: none;
