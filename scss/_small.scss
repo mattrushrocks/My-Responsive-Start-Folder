@@ -39,7 +39,7 @@ header {
 }
 
 #navWrapper {
-    background-color: teal;
+    background-color: $secondaryColor;
     padding: .5rem;
 }
 
@@ -59,7 +59,7 @@ nav {
         color: white;
         text-align: center;
         text-decoration: none;
-        &:hover {color: $fontColor;}
+        &:hover {color: lightsteelblue;}
     }
 }
 
