@@ -1,4 +1,7 @@
-header, nav, main, footer {
+nav, main{
     max-width: 60rem;
-    margin: auto;
+}
+
+.cardWrapper {
+    grid-template-columns: 1fr 1fr 1fr;
 }
